@@ -5,3 +5,10 @@ Log/*.ot
 /.vscode
 debug/*.txt
 bash/*.out
+# Claude
+CLAUDE.md
+claude.md
+.claude/
+.claude.json
+.claude.local.json
+.claudeignore
